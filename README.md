@@ -3,8 +3,7 @@
 ### Pomodoro Timer ###
 
 ## ✧ Links
-- Game Live link: [Here](https://gsg-fc03.github.io/pomodoro-timer-monther/)
-- Game Repo Link on Github:[Here](https://github.com/GSG-FC03/pomodoro-timer-monther)
+- App Repo Link on Github:[Here](https://github.com/GSG-FC03/pomodoro-timer-monther)
 - Figma Design link: [Here](https://www.figma.com/file/wu1ai6kONhlPbErqCgjd5V/Untitled?node-id=0%3A1)
 
 ## ✧The App
@@ -12,7 +11,7 @@ A Pomodoro timer is a simple application that keeps you focused and productive b
 
 ## ✧ Product Main Features:
 * Dark Mode
-* Mpbile First. 
+* Mobile First. 
 
 ## ✧User Journey
 The User click on start to start his work to 25 min then he take a break 5 min.
@@ -29,13 +28,13 @@ After 4 cycles (2 hours) it will start a 15 min break.
 
 ## ✧The wireframes (User Experiance)
 <div style="display:inline">
-<img width="400vw" height="auto" src="../assets/user.png">
+<img width="400vw" height="auto" src="assets/user.PNG">
 </div>
 <br>
 
 ## ✧The Final screens
 <div style="display:inline">
-<img width="400vw" height="auto" src="../assets/final-screen.png">
+<img width="400vw" height="auto" src="assets/final-screen.png">
 </div>
 
 

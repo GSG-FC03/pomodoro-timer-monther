@@ -20,21 +20,20 @@ After 4 cycles (2 hours) it will start a 15 min break.
 
 
 ## ✧User Stories
-<br>
 1. As a `User` ***I can start the timer 25 min *** so that ***After 25 it will  start 5 min to the break, after 4 cycles it will start 15 min ,after that it will be one cycle.***
-2. As a `User` I can *** I can Reset the time*** so that *** the time will be 00:00 ***.
-3. As a `User` I can ***Pause the time*** so that *** the time will stop***.
+2. As a `User` I can ***I can Reset the time *** so that ***the time will be 00:00***.
+3. As a `User` I can ***Pause the time*** so that ***the time will stop***.
 <br>
 
 ## ✧The wireframes (User Experiance)
 <div style="display:inline">
-<img width="400vw" height="auto" src="assets/user.png">
+<img width="auto" height="auto" src="./assets/final-screen.png">
 </div>
 <br>
 
 ## ✧The Final screens
 <div style="display:inline">
-<img width="400vw" height="auto" src="assets/final-screen.png">
+<img width="auto" height="auto" src="./assets/final-screen.png">
 </div>
 
 
